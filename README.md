@@ -1,1 +1,1 @@
-# RateLimitingAppliaction
+# RateLimitingApplication
